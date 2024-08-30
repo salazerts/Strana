@@ -303,7 +303,7 @@
     <description backgroundAlpha="255" foregroundColor="#000000" foregroundAlpha="255" filename="../../../Desktop/Tur/1/Comp_00006.jpg" backgroundColor="#ffffff" name="Comp_00006"/>
    </pano>
   </group>
-  <build htmlTemplate="fullpage.html" useMobileScale="true" iBookTour="false" useMultiResolution="true" baseDir="C:/Users/Admin/Documents/GitHub/Strana" mobilesTour="true" lang="ru" encryptConfig="false" displayErrors="true" desktopTour="true" filename="Strana" imgJpegQuality="12" flashTour="true" exportComments="true" exportPtv="true" html5Tour="true" websiteWithCredentials="false"/>
+  <build htmlTemplate="fullpage.html" useMobileScale="true" iBookTour="false" useMultiResolution="true" baseDir="C:/Users/Admin/Documents/GitHub/Strana" mobilesTour="true" lang="ru" encryptConfig="false" displayErrors="true" desktopTour="true" filename="Strana" imgJpegQuality="12" flashTour="true" exportComments="true" html5Tour="true" websiteWithCredentials="false"/>
   <plugins>
    <plugin id="panoramacombobox" name="Panorama Combobox">
     <param uiPreview="false" id="position_group" customize="false" name="tr:Position">
