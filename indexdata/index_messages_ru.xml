@@ -72,10 +72,78 @@
   <data name="ru_pano993_title"><![CDATA[tip_00003_2parad]]></data>
 
 
+  <data name="ru_pano1009_title"><![CDATA[Comp3_00000]]></data>
+
+
+  <data name="ru_pano1010_title"><![CDATA[Comp3_00001]]></data>
+
+
+  <data name="ru_pano1011_title"><![CDATA[Comp3_00002]]></data>
+
+
+  <data name="ru_pano1012_title"><![CDATA[Comp3_00003]]></data>
+
+
+  <data name="ru_pano1013_title"><![CDATA[Comp3_00004]]></data>
+
+
+  <data name="ru_pano1014_title"><![CDATA[Comp3_00005]]></data>
+
+
+  <data name="ru_pano1035_title"><![CDATA[tip_00000_4parad]]></data>
+
+
+  <data name="ru_pano1036_title"><![CDATA[tip_00001_4parad]]></data>
+
+
+  <data name="ru_pano1037_title"><![CDATA[tip_00002_4parad]]></data>
+
+
+  <data name="ru_pano1038_title"><![CDATA[tip_00003_4parad]]></data>
+
+
+  <data name="ru_pano1046_title"><![CDATA[Comp3_00006]]></data>
+
+
+  <data name="ru_pano1305_title"><![CDATA[Comp4_00000]]></data>
+
+
+  <data name="ru_pano1312_title"><![CDATA[Comp4_00001]]></data>
+
+
+  <data name="ru_pano1328_title"><![CDATA[Comp4_00002]]></data>
+
+
+  <data name="ru_pano1344_title"><![CDATA[Comp4_00003]]></data>
+
+
+  <data name="ru_pano1351_title"><![CDATA[Comp4_00004]]></data>
+
+
+  <data name="ru_pano1358_title"><![CDATA[Comp4_00005]]></data>
+
+
+  <data name="ru_pano1365_title"><![CDATA[tip_00000_3parad]]></data>
+
+
+  <data name="ru_pano1378_title"><![CDATA[tip_00003_3parad]]></data>
+
+
+  <data name="ru_pano1385_title"><![CDATA[tip_00001_3parad]]></data>
+
+
+  <data name="ru_pano1398_title"><![CDATA[tip_00002_3parad]]></data>
 
 
 
 
+
+
+  <data name="ru_button1tooltip"><![CDATA[]]></data>
+  <data name="ru_buttontooltip"><![CDATA[]]></data>
+  <data name="ru_button2tooltip"><![CDATA[]]></data>
+  <data name="ru_button3tooltip"><![CDATA[]]></data>
+  <data name="ru_button4tooltip"><![CDATA[]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
@@ -108,6 +176,69 @@
   <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
