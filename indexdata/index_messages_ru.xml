@@ -9,6 +9,9 @@
 
 
 
+  <data name="ru_pano1406_title"><![CDATA[dvor2]]></data>
+
+
   <data name="ru_pano10_title"><![CDATA[Comp_00000]]></data>
 
 
@@ -135,6 +138,18 @@
   <data name="ru_pano1398_title"><![CDATA[tip_00002_3parad]]></data>
 
 
+  <data name="ru_pano1404_title"><![CDATA[dvor1]]></data>
+
+
+  <data name="ru_pano1408_title"><![CDATA[dvor3]]></data>
+
+
+  <data name="ru_pano1410_title"><![CDATA[dvor4]]></data>
+
+
+  <data name="ru_pano1412_title"><![CDATA[dvor5]]></data>
+
+
 
 
 
@@ -176,6 +191,21 @@
   <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

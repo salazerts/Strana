@@ -117,6 +117,81 @@ tween(alpha, 1);
 
 
 
+    
+  <!-- Spot Style - paradnaya1 -->
+
+
+  <style name="Iconparadnaya1"
+         url="%FIRSTXML%/spots/dvorpar1_user_defaultpoint47_user_defaultpoint4.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconparadnaya1"
+         onout="onoutIconparadnaya1"
+
+
+         />
+  <action name="onhoverIconparadnaya1">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconparadnaya1">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - paradnaya3 -->
+
+
+  <style name="Iconparadnaya3"
+         url="%FIRSTXML%/spots/dvorpar3_user_defaultpoint49_user_defaultpoint7.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconparadnaya3"
+         onout="onoutIconparadnaya3"
+
+
+         />
+  <action name="onhoverIconparadnaya3">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconparadnaya3">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - paradnaya4 -->
+
+
+  <style name="Iconparadnaya4"
+         url="%FIRSTXML%/spots/dvorpar4_user_defaultpoint50_user_defaultpoint6.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconparadnaya4"
+         onout="onoutIconparadnaya4"
+
+
+         />
+  <action name="onhoverIconparadnaya4">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconparadnaya4">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
 <!-- ********** -->
 <!-- parad1 -->
 <!-- id : button1 -->
