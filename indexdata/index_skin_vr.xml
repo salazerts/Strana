@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Default Point Spot Style -->
+
+
+  <style name="IconDefaultPointSpotStyle"
+         url="%FIRSTXML%/spots/hotspot_plan_sequence_user_defaultpoint0.png"
+         visible="false"
+         frame="0"
+         lastframe="9"
+         framewidth="67"
+         frameheight="67"
+         stopspotsequence="false"
+         crop="0|0|67|67"
+         edge="bottom" ox="0" oy="0"
+         alpha="0.8"
+         onloaded="startspotanimation(0.1);"
+         onhover="onhoverIconDefaultPointSpotStyle"
+         onover="onoverIconDefaultPointSpotStyle"
+         onout="onoutIconDefaultPointSpotStyle"
+
+
+         />
+  <action name="onhoverIconDefaultPointSpotStyle">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIconDefaultPointSpotStyle">
+tween(scale, 1.2);
+tween(alpha, 1);
+
+  </action>
+  <action name="onoutIconDefaultPointSpotStyle">
+    hideTooltip();
+    tween(scale, 1);
+    tween(alpha, 0.8);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - kvartira -->
+
+
+  <style name="Iconkvartira"
+         url="%FIRSTXML%/spots/kvartira_user_defaultpoint45_user_defaultpoint2.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconkvartira"
+         onout="onoutIconkvartira"
+
+
+         />
+  <action name="onhoverIconkvartira">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconkvartira">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - holl 2 etazha -->
+
+
+  <style name="Iconholl2etazha"
+         url="%FIRSTXML%/spots/xol2_user_defaultpoint44_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconholl2etazha"
+         onout="onoutIconholl2etazha"
+
+
+         />
+  <action name="onhoverIconholl2etazha">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconholl2etazha">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - holl 1 etazha -->
+
+
+  <style name="Iconholl1etazha"
+         url="%FIRSTXML%/spots/xol1_user_defaultpoint51_user_defaultpoint3.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconholl1etazha"
+         onout="onoutIconholl1etazha"
+
+
+         />
+  <action name="onhoverIconholl1etazha">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconholl1etazha">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+</krpano>
