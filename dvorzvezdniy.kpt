@@ -303,7 +303,7 @@
     <description backgroundAlpha="255" foregroundColor="#000000" foregroundAlpha="255" filename="../../../Desktop/Tur/1/Comp_00006.jpg" backgroundColor="#ffffff" name="Comp_00006"/>
    </pano>
   </group>
-  <build htmlTemplate="fullpage.html" useMobileScale="true" iBookTour="false" useMultiResolution="true" baseDir="C:/Users/Admin/Documents/GitHub/Strana" mobilesTour="true" lang="ru" encryptConfig="false" displayErrors="true" desktopTour="true" filename="Strana" imgJpegQuality="12" flashTour="true" exportComments="true" html5Tour="true" websiteWithCredentials="false"/>
+  <build htmlTemplate="fullpage.html" useMobileScale="true" iBookTour="false" useMultiResolution="true" baseDir="C:/Users/Admin/Documents/GitHub/Strana" mobilesTour="true" lang="ru" encryptConfig="false" displayErrors="true" desktopTour="true" filename="index" imgJpegQuality="12" flashTour="true" exportComments="true" html5Tour="true" websiteWithCredentials="false"/>
   <plugins>
    <plugin id="panoramacombobox" name="Panorama Combobox">
     <param uiPreview="false" id="position_group" customize="false" name="tr:Position">
@@ -370,22 +370,22 @@
   </tooltipstyle>
   <presetActions>
    <presetAction timestamp="0" spotType="point" id="user_defaultpoint0" isDefault="True" objectId="0" type="actionicon" locked="False">
-    <description description="tr:This is the default preset for point spots" previewFile="../../../../../Program Files/Kolor/Panotour Pro 2.5/Resources/spots/classic/hotspot_neutral.png" name="Default Point Spot Style"/>
+    <description description="tr:This is the default preset for point spots" previewFile="../../../../../Program Files/Kolor/Panotour Pro 2.5/Resources/spots/metal/hotspot_image.png" name="Default Point Spot Style"/>
     <display type="point">
      <bool uiPreview="false" default="true" id="fileorlib" customize="false" name="Use icon from library"/>
      <filechooser filters="images,flash" uiPreview="false" conditionalParam="fileorlib" allowEmpty="false" default="" allowRemote="true" id="icon" customize="false" conditionalValues="false" name="Icon file"/>
-     <spoticonchooser allowSequences="true" uiPreview="false" conditionalParam="fileorlib" default="theme02|tr:Neutral|image" id="iconChooser" customize="false" conditionalValues="true" name="Icon"/>
+     <spoticonchooser allowSequences="true" uiPreview="false" conditionalParam="fileorlib" default="theme09|tr:Image|image" id="iconChooser" customize="false" conditionalValues="true" name="Icon"/>
      <row uiPreview="false" conditionalParam="fileorlib" id="rowcolor" customize="false" conditionalValues="true">
-      <bool uiPreview="false" default="false" id="customcolor" customize="false" name="Custom color"/>
-      <color allowDynamicSource="false" needAlpha="true" uiPreview="false" defaultAlpha="1" conditionalParam="customcolor" default="#fdc400" id="iconcolor" source="customColor" customize="false" conditionalValues="true" name="Color"/>
+      <bool uiPreview="false" default="true" id="customcolor" customize="false" name="Custom color"/>
+      <color allowDynamicSource="false" needAlpha="true" uiPreview="false" defaultAlpha="1" conditionalParam="customcolor" default="#fdfdfd" id="iconcolor" source="customColor" customize="false" conditionalValues="true" name="Color"/>
      </row>
      <size uiPreview="false" needKeepRatio="false" id="size" customize="false" name="Size">
       <dimension minimum="0" uiPreview="false" maximum="999" currentUnit="pixel" default="0" id="width" needAutomatic="false" customize="false" availableUnits="pixel" name="Width"/>
       <dimension minimum="0" uiPreview="false" maximum="999" currentUnit="pixel" default="0" id="height" needAutomatic="false" customize="false" availableUnits="pixel" name="Height"/>
      </size>
      <advanced uiPreview="false" id="advancedGrp" customize="false">
-      <bool uiPreview="false" default="false" id="zoom" customize="false" name="Change size according to zoom level"/>
-      <bool uiPreview="false" default="false" id="alphaonhover" customize="false" name="Change transparency on over"/>
+      <bool uiPreview="false" default="true" id="zoom" customize="false" name="Change size according to zoom level"/>
+      <bool uiPreview="false" default="true" id="alphaonhover" customize="false" name="Change transparency on over"/>
       <bool uiPreview="false" default="false" id="scaleonhover" customize="false" name="Scale on over"/>
       <number minimum="0" suffix=" °" uiPreview="false" maximum="360" default="0" id="rotationAngle" customize="false" name="Rotation angle"/>
       <select uiPreview="false" default="center" id="anchor" customize="false" name="Anchor position">
